@@ -4,3 +4,6 @@
 [submodule "public/themes/redmine-theme-flat"]
 	path = public/themes/redmine-theme-flat
 	url = https://github.com/tsi/redmine-theme-flat
+[submodule "plugins/a_common_libs"]
+	path = plugins/a_common_libs
+	url = https://sonatine726@bitbucket.org/dkuk/a_common_libs.git
