@@ -7,3 +7,6 @@
 [submodule "plugins/a_common_libs"]
 	path = plugins/a_common_libs
 	url = https://sonatine726@bitbucket.org/dkuk/a_common_libs.git
+[submodule "plugins/usability"]
+	path = plugins/usability
+	url = https://sonatine726@bitbucket.org/dkuk/usability.git
