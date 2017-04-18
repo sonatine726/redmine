@@ -193,6 +193,7 @@ DEPENDENCIES
   rmagick (>= 2.14.0)
   roadie-rails
   ruby-openid (~> 2.3.0)
+  rubyzip (>= 1.0.0)
   selenium-webdriver (~> 2.53.4)
   simplecov (~> 0.9.1)
   tzinfo-data
