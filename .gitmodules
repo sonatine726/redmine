@@ -10,6 +10,3 @@
 [submodule "plugins/usability"]
 	path = plugins/usability
 	url = https://sonatine726@bitbucket.org/dkuk/usability.git
-[submodule "plugins/redmine_mentions"]
-	path = plugins/redmine_mentions
-	url = https://github.com/arkhitech/redmine_mentions
