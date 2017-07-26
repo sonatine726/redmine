@@ -16,3 +16,6 @@
 [submodule "plugins/redmine_slack"]
 	path = plugins/redmine_slack
 	url = https://github.com/sciyoshi/redmine-slack
+[submodule "plugins/redmine-slack"]
+	path = plugins/redmine-slack
+	url = https://github.com/sonatine726/empty.git
