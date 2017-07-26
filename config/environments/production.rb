@@ -22,4 +22,7 @@ Rails.application.configure do
 
   # Print deprecation notices to the Rails logger.
   config.active_support.deprecation = :log
+
+  config.log_level = :warn
+  config.logger = Logger.new("log/production.log", 5, 10 * 1024 * 1024)
 end
