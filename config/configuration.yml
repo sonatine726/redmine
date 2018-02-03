@@ -19,8 +19,8 @@ default:
       port: 587
       authentication: :plain
       domain: 'smtp.gmail.com'
-      user_name: 'sonatine726@gmail.com'
-      password: 'kmlisvltrllwfhxx'
+      user_name: 'zakojinoen@gmail.com'
+      password: 'fjverbfwiqzotxqb'
   # ==== Simple SMTP server at localhost
   #
   #  email_delivery:
